@@ -1,0 +1,11 @@
+Computer Networks Internal Assessment
+
+The Computer Networks internal assessment will be conducted on Friday.
+
+Topics:
+OSI Model
+TCP/IP Model
+IP Addressing
+Subnetting
+
+Students are requested to prepare all the above topics.

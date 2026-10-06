@@ -1,0 +1,62 @@
+[
+  {
+    "id": "local_cn_announcement",
+    "source": "local_fallback",
+    "title": "Computer Networks Internal Assessment",
+    "content": "The Computer Networks internal assessment will be conducted on Friday.\n\nTopics:\nOSI Model\nTCP/IP Model\nIP Addressing\nSubnetting\n\nStudents are requested to prepare all the above topics.",
+    "file_path": "data/classroom_fallback/sample_announcement.txt",
+    "mime_type": "text/plain",
+    "metadata": {
+      "course": "Computer Networks",
+      "classroom_type": "ANNOUNCEMENT"
+    }
+  },
+  {
+    "id": "local_cn_assignment",
+    "source": "local_fallback",
+    "title": "Computer Networks Assignment",
+    "content": "Submit the Computer Networks assignment on routing protocols. Explain distance vector routing and link state routing with suitable examples.",
+    "file_path": null,
+    "mime_type": "text/plain",
+    "metadata": {
+      "course": "Computer Networks",
+      "classroom_type": "ASSIGNMENT"
+    }
+  },
+  {
+    "id": "local_db_lecture",
+    "source": "local_fallback",
+    "title": "Database Management Lecture Notes",
+    "content": "Today's lecture covers relational database concepts, primary keys, foreign keys, normalization, and SQL queries.",
+    "file_path": null,
+    "mime_type": "text/plain",
+    "metadata": {
+      "course": "Database Management Systems",
+      "classroom_type": "LECTURE_NOTES"
+    }
+  },
+  {
+    "id": "local_os_material",
+    "source": "local_fallback",
+    "title": "Operating Systems Study Material",
+    "content": "Study material for process management includes processes, threads, CPU scheduling, synchronization, and deadlocks.",
+    "file_path": null,
+    "mime_type": "text/plain",
+    "metadata": {
+      "course": "Operating Systems",
+      "classroom_type": "STUDY_MATERIAL"
+    }
+  },
+  {
+    "id": "local_se_exam",
+    "source": "local_fallback",
+    "title": "Software Engineering Exam Information",
+    "content": "The Software Engineering internal examination will cover software development life cycle, requirements engineering, software design, testing, and maintenance.",
+    "file_path": null,
+    "mime_type": "text/plain",
+    "metadata": {
+      "course": "Software Engineering",
+      "classroom_type": "EXAM_INFORMATION"
+    }
+  }
+]
